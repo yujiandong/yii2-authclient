@@ -1,5 +1,8 @@
 Yii Authclient for Weibo,QQ,Wechat
 
+**Demo**
+http://simpleforum.org/site/login
+
 **Config Setting**
 
 ```
