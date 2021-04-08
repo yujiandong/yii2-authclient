@@ -22,7 +22,7 @@ Yii Authclient for Weibo,QQ,Wechat,Gitee
                 'clientId' => 'weixin_appid',
                 'clientSecret' => 'weixin_appkey',
             ],
-            'weixin' => [
+            'gitee' => [
                 'class' => 'yujiandong\authclient\Gitee',
                 'clientId' => 'gitee_clientId',
                 'clientSecret' => 'gitee_clientSecret',
